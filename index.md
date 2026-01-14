@@ -37,9 +37,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
 ## Work Done
 
 <details>
-<summary><b>🛠️ Embedded Systems and FPGA (Click to expand)</b></summary>
-
-<br>
+<summary><b>Embedded Systems and FPGA (Click to expand)</b></summary>
 
 ## Digital Systems and Design
 <br>
@@ -80,7 +78,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
+<br>
 **Assignment 7**
 <a href="reports/EEE102%20Lab7.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
