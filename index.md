@@ -40,7 +40,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
 <summary><b>🛠️ Embedded Systems and FPGA (Click to expand)</b></summary>
 <br>
 
-### 💻 Embedded Systems and Microcontroller
+# Embedded Systems and Microcontroller
 
 * **[Project Title 1]** - *Brief description of hardware used.*
     * [📄 View/Download Report](./reports/embedded_report1.pdf)
@@ -49,24 +49,24 @@ This site documents the hardware projects and embedded systems I’ve developed 
 
 ---
 
-### ⚡ FPGA
+# FPGA
 
 * **[FPGA Lab 1]** - *Brief description of the logic design.*
-    * [📄 View/Download Report](./reports/EEE102_Lab1.pdf)
+    * [📄 View/Download Report](./reports/EEE102%20Lab%201.pdf)
 * **[FPGA Lab 2]** - *Brief description of the logic design.*
-    * [📄 View/Download Report](./reports/EEE102_Lab2.pdf)
+    * [📄 View/Download Report](./reports/EEE102%20Lab%202.pdf)
 * **[FPGA Lab 3]** - *Brief description of the logic design.*
-    * [📄 View/Download Report](./reports/EEE102_Lab3.pdf)
+    * [📄 View/Download Report](./reports/EEE102%20Lab%203.pdf)
 * **[FPGA Lab 4]** - *Brief description of the logic design.*
-    * [📄 View/Download Report](./reports/EEE102_Lab4.pdf)
+    * [📄 View/Download Report](./reports/EEE102%20Lab%204.pdf)
 * **[FPGA Lab 5]** - *Brief description of the logic design.*
-    * [📄 View/Download Report](./reports/EEE102_Lab5.pdf)
+    * [📄 View/Download Report](./reports/EEE102%20Lab%205.pdf)
 * **[FPGA Lab 6]** - *Brief description of the logic design.*
-    * [📄 View/Download Report](./reports/EEE102_Lab6.pdf)
+    * [📄 View/Download Report](./reports/EEE102%20Lab%206.pdf)
 * **[FPGA Lab 7]** - *Brief description of the logic design.*
-    * [📄 View/Download Report](./reports/EEE102_Lab7.pdf)
+    * [📄 View/Download Report](./reports/EEE102%20Lab%207.pdf)
 * **[FPGA Project]** - *Brief description of the logic design.*
-    * [📄 View/Download Report](./reports/EEE102_Project_Report.pdf)
+    * [📄 View/Download Report](./reports/EEE102%20Project%20Report.pdf)
 
 </details>
 
