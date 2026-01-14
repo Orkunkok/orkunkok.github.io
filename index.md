@@ -41,8 +41,13 @@ This site documents the hardware projects and embedded systems I’ve developed 
 
 <br>
 
-### ⚡ FPGA
-* **EEE102 Lab 1** - *Introduction to Digital Circuit Design.*
-    * [📄 View/Download Report](./reports/EEE102%20Lab1.pdf)
+## Reports
+
+**EEE102 Lab 1**
+<a href="reports/EEE102%20Lab1.pdf" target="_blank" rel="noopener"
+   style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
+  View
+</a>
+
 
 </details>
