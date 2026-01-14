@@ -21,14 +21,16 @@ This site documents the hardware projects and embedded systems I’ve developed 
 
 ## Experience
 
-### **Engineering Intern – Havelsan Radar Teknoloji (HTR)**  
-*1 July 2025 – 29 July 2025*  
-- Designed a power module intended for use in land defense systems.
-
 ### **Engineering Intern – Europower**  
 *3 July 2023 – 28 July 2023*  
 - Contributed to the design of 170 kV circuit breakers.  
 - Performed quality control inspections on circuit breakers.
+  
+### **Engineering Intern – Havelsan Radar Teknoloji (HTR)**  
+*1 July 2025 – 29 July 2025*  
+- Designed a power module intended for use in land defense systems.
+
+
 
 ---
 
