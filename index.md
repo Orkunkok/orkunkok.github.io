@@ -43,12 +43,16 @@ This site documents the hardware projects and embedded systems I’ve developed 
 
 ## Digital Systems and Design
 
+<br>
+
 **EEE102 Lab 1**
 <a href="reports/EEE102%20Lab1.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
 
+ <br>
+ 
 **EEE102 Lab 2**
 <a href="reports/EEE102%20Lab2.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
@@ -94,25 +98,25 @@ This site documents the hardware projects and embedded systems I’ve developed 
 ## Embedded Systems and Microcontroller
 
 **EEE102 Lab 1**
-<a href="reports/EEE212%20LAB2_Q1.pdf" target="_blank" rel="noopener"
+<a href="reports/EEE212%20LAB2_Q1.txt" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
 
 **EEE102 Lab 1**
-<a href="reports/EEE212%20LAB2_Q2.pdf" target="_blank" rel="noopener"
+<a href="reports/EEE212%20LAB2_Q2.txt" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
 
 **EEE102 Lab 1**
-<a href="reports/EEE212%20LAB5.pdf" target="_blank" rel="noopener"
+<a href="reports/EEE212%20LAB5.txt" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
 
 **EEE102 Lab 1**
-<a href="reports/EEE212%Proje.pdf" target="_blank" rel="noopener"
+<a href="reports/EEE212%Proje.txt" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
