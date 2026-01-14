@@ -42,80 +42,79 @@ This site documents the hardware projects and embedded systems I’ve developed 
 <br>
 
 ## Digital Systems and Design
-
 <br>
 
-**EEE102 Lab 1**
+**Assignment 1**
 <a href="reports/EEE102%20Lab1.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
  <br>
  
-**EEE102 Lab 2**
+**Assignment 2**
 <a href="reports/EEE102%20Lab2.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
-**EEE102 Lab 3**
+<br>
+**Assignment 3**
 <a href="reports/EEE102%20Lab3.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
-**EEE102 Lab 1**
+<br>
+**Assignment 4**
 <a href="reports/EEE102%20Lab4.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
-**EEE102 Lab 1**
+<br>
+**Assignment 5**
 <a href="reports/EEE102%20Lab5.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
-**EEE102 Lab 1**
+<br>
+**Assignment 6**
 <a href="reports/EEE102%20Lab6.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
 
-**EEE102 Lab 1**
+**Assignment 7**
 <a href="reports/EEE102%20Lab7.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
-**EEE102 Lab 1**
+<br>
+**Project**
 <a href="reports/EEE102%20Project%20Report.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
+<br>
 ## Embedded Systems and Microcontroller
+<br>
 
-**EEE102 Lab 1**
+**Assignment 1**
 <a href="reports/EEE212%20LAB2_Q1.txt" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
-**EEE102 Lab 1**
+<br>
+**Assignment 2**
 <a href="reports/EEE212%20LAB2_Q2.txt" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
-**EEE102 Lab 1**
-<a href="reports/EEE212%20LAB5.txt" target="_blank" rel="noopener"
+<br>
+**Assignment 3**
+<a href="reports/EEE212%20LAB5.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
 </a>
-
-**EEE102 Lab 1**
+<br>
+**Project**
 <a href="reports/EEE212%Proje.txt" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
   View
