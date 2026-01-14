@@ -47,7 +47,6 @@ This site documents the hardware projects and embedded systems I’ve developed 
   View
 </a>
  <br>
- 
 **Assignment 2**
 <a href="reports/EEE102%20Lab2.pdf" target="_blank" rel="noopener"
    style="display:inline-block;padding:8px 12px;border:1px solid #333;border-radius:6px;text-decoration:none;">
