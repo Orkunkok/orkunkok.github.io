@@ -39,7 +39,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
 <details>
 <summary><b>Embedded Systems and FPGA (Click to expand)</b></summary>
 
-## Digital Systems and Design
+## **Digital Systems and Design**
 
 **Assignment 1**
 <a href="reports/EEE102%20Lab1.pdf" target="_blank" rel="noopener"
