@@ -51,7 +51,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
 </ul>
 </details>
 </div>
-<br>
+
 <div style="font-size: 15px;">
 <details>
 <summary><b>Digital Systems and Design</b></summary>
@@ -105,7 +105,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
   </div>
-<br>
+
 <div style="font-size: 15px;">
   <details>
   <summary><b>Analog Electronics</b></summary>
@@ -122,7 +122,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
 </div>
-  <br>
+
 <div style="font-size: 15px;">
   <details>
   <summary><b>Electronic Circuit Design</b></summary>
@@ -140,7 +140,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
 </div>
-  <br>
+
 <div style="font-size: 15px;">
   <details>
   <summary><b>Power Electronics</b></summary>
@@ -160,7 +160,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
 </div>
-  <br>
+
 <div style="font-size: 15px;">
   <details>
   <summary><b>Analog CMOS Integrated Circuits</b></summary>
@@ -173,7 +173,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
 </div>
-  <br>
+
 <div style="font-size: 15px;">
   <details>
   <summary><b>Microwave Electronics</b></summary>
@@ -197,7 +197,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
 ---
 <div style="font-size: 18px;">
 <details>
-  <summary><b>Signals and Systems</b></summary>
+  <summary><b>Signals and Systems & Digital Telecommunications</b></summary>
   <div style="font-size: 15px;">
   <details>
   <summary><b>Signals and Systems</b></summary>
@@ -211,5 +211,16 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
   </details>
   </div>
+
+  <div style="font-size: 15px;">
+  <details>
+  <summary><b>Digital Telecommunications</b></summary>
+  <ul>
+    <li><b>Lab Assignment 1</b> — <a href="reports/EEE431%20Kok_OrkunIbrahim_1.pdf" target="_blank" rel="noopener">View</a></li>
+    <li><b>Lab Assignment 2</b> — <a href="reports/EEE431%20Kok_OrkunIbrahim_2.pdf" target="_blank" rel="noopener">View</a></li>
+    <li><b>Lab Assignment 3</b> — <a href="reports/EEE431%20Kok_OrkunIbrahim_3.pdf" target="_blank" rel="noopener">View</a></li>
+  </ul>
+  </details>
+  </div>
 </details>
-</div
+</div>
