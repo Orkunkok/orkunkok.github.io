@@ -51,7 +51,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
 </ul>
 </details>
 </div>
-
+<br>
 <div style="font-size: 15px;">
 <details>
 <summary><b>Digital Systems and Design</b></summary>
@@ -105,7 +105,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
   </div>
-
+<br>
 <div style="font-size: 15px;">
   <details>
   <summary><b>Analog Electronics</b></summary>
@@ -122,6 +122,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
 </div>
+  <br>
 <div style="font-size: 15px;">
   <details>
   <summary><b>Electronic Circuit Design</b></summary>
@@ -139,6 +140,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
 </div>
+  <br>
 <div style="font-size: 15px;">
   <details>
   <summary><b>Power Electronics</b></summary>
@@ -158,6 +160,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
 </div>
+  <br>
 <div style="font-size: 15px;">
   <details>
   <summary><b>Analog CMOS Integrated Circuits</b></summary>
@@ -170,6 +173,7 @@ This site documents the hardware projects and embedded systems I’ve developed 
   </ul>
 </details>
 </div>
+  <br>
 <div style="font-size: 15px;">
   <details>
   <summary><b>Microwave Electronics</b></summary>
@@ -194,6 +198,9 @@ This site documents the hardware projects and embedded systems I’ve developed 
 <div style="font-size: 18px;">
 <details>
   <summary><b>Signals and Systems</b></summary>
+  <div style="font-size: 15px;">
+  <details>
+  <summary><b>Signals and Systems</b></summary>
   <ul>
     <li><b>Lab Assignment 1</b> — <a href="reports/EEE321%20LAB1_orkun_ibrahim_kok.pdf" target="_blank" rel="noopener">View</a></li>
     <li><b>Lab Assignment 2</b> — <a href="reports/EEE321%20LAB2_orkun_ibrahim_kok.pdf" target="_blank" rel="noopener">View</a></li>
@@ -203,4 +210,6 @@ This site documents the hardware projects and embedded systems I’ve developed 
     <li><b>Lab Assignment 6</b> — <a href="reports/EEE321%20LAB6_orkun_ibrahim_kok.pdf" target="_blank" rel="noopener">View</a></li>
   </ul>
   </details>
-</div>
+  </div>
+</details>
+</div
