@@ -34,8 +34,6 @@ This site documents the hardware projects and embedded systems I’ve developed 
 
 ---
 
-## Work Done
-
 <details>
 <summary><b>🛠️ Embedded Systems and FPGA (Click to expand)</b></summary>
 
@@ -44,10 +42,15 @@ This site documents the hardware projects and embedded systems I’ve developed 
 ### 💻 Embedded Systems and Microcontroller
 *Focus: STM32, MSP430, and C/Assembly programming.*
 
-* **[Project Title 1]** - *Brief description of hardware used.*
-    * [📄 View/Download Report](./reports/embedded_report1.pdf)
-* **[Project Title 2]** - *Brief description of hardware used.*
-    * [📄 View/Download Report](./reports/embedded_report2.pdf)
+* **Project Title 1** - *Brief description of hardware used.*
+  * <a href="{{ '/reports/EEE211_Lab1.pdf' | relative_url }}" target="_blank" rel="noopener">📄 View</a>
+    &nbsp;|&nbsp;
+    <a href="{{ '/reports/EEE211_Lab1.pdf' | relative_url }}" download>⬇️ Download</a>
+
+* **Project Title 2** - *Brief description of hardware used.*
+  * <a href="{{ '/reports/EEE211_Lab2.pdf' | relative_url }}" target="_blank" rel="noopener">📄 View</a>
+    &nbsp;|&nbsp;
+    <a href="{{ '/reports/EEE211_Lab2.pdf' | relative_url }}" download>⬇️ Download</a>
 
 ---
 
@@ -55,10 +58,18 @@ This site documents the hardware projects and embedded systems I’ve developed 
 *Focus: Digital logic design and Verilog/VHDL.*
 
 * **EEE102 Lab 1**
-    * [📄 View/Download Report](./reports/EEE102_Lab_1.pdf)
+  * <a href="{{ '/reports/EEE102_Lab1.pdf' | relative_url }}" target="_blank" rel="noopener">📄 View</a>
+    &nbsp;|&nbsp;
+    <a href="{{ '/reports/EEE102_Lab1.pdf' | relative_url }}" download>⬇️ Download</a>
+
 * **EEE102 Lab 2**
-    * [📄 View/Download Report](./reports/EEE102%20Lab%20202.pdf)
+  * <a href="{{ '/reports/EEE102_Lab2.pdf' | relative_url }}" target="_blank" rel="noopener">📄 View</a>
+    &nbsp;|&nbsp;
+    <a href="{{ '/reports/EEE102_Lab2.pdf' | relative_url }}" download>⬇️ Download</a>
+
 * **EEE102 Project**
-    * [📄 View/Download Report](./reports/EEE102%20Project%20Report.pdf)
+  * <a href="{{ '/reports/EEE102_Project_Report.pdf' | relative_url }}" target="_blank" rel="noopener">📄 View</a>
+    &nbsp;|&nbsp;
+    <a href="{{ '/reports/EEE102_Project_Report.pdf' | relative_url }}" download>⬇️ Download</a>
 
 </details>
